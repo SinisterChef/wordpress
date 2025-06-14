@@ -1,0 +1,10 @@
+{
+    "themes": [
+        "./kyle-theme",
+        "./twentytwentyfive"
+    ],
+    "config": {
+        "WP_DEBUG": true
+    }
+}
+  
