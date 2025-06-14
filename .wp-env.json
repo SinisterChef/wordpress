@@ -1,8 +1,15 @@
 {
+    "core": {
+        "version": "latest",
+        "title": "Kyle Town"
+      },
     "themes": [
         "./kyle-theme",
         "./twentytwentyfive"
     ],
+    "plugins": [
+        "./plugins/create-block-theme"
+      ],
     "config": {
         "WP_DEBUG": true
     }

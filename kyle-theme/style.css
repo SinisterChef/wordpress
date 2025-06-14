@@ -1,8 +1,13 @@
 /*
-Theme Name: Kyle Theme
-Author: You
-Version: 1.0
-*/
+    Theme Name: Kyle Theme
+    Author: Kyle O'Brien
+    Version: 0.1
+    Description:       Messing around with block themes
+    Author URI:        https://kyleobrien.design
+    Tags:              block-patterns, full-site-editing
+    License:           GNU General Public License v2.0 or later
+    License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+    */
 
 h1 {
     color: black;
